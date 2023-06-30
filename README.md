@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-I am a Full-Stack Software Developer who loves enjoys backpacking  🌲🎒⛰️, building Gunpla  ✂🤖, and weight-lifting  🏋️‍♀️ whenever I have excess freetime!
+I am a Full-Stack Software Developer who enjoys backpacking  🌲🎒⛰️, building Gunpla  ✂🤖, and weight-lifting  🏋️‍♀️ whenever I have excess freetime!
 
 I am currently sprucing 🧹 up my projects, so pardon the mess! 🙏
 
