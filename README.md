@@ -5,9 +5,10 @@
 
 I am a Full-Stack Software Developer who enjoys backpacking  🌲🎒⛰️, building Gunpla  ✂🤖, and weight-lifting  🏋️‍♀️ whenever I have excess freetime!
 
-I am currently sprucing 🧹 up my projects, so pardon the mess! 🙏
+Here's what I have been working on:
 
-In the meantime, checkout my proficiencies! 
+[SpookBnb 👻](https://airbnb-clone-ff80.onrender.com)  |  [TaskPanda 🐼](https://taskpanda-0di2.onrender.com)  |  [FoodFetch 🍔](https://food-fetch.onrender.com)
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
