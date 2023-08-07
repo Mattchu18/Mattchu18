@@ -7,7 +7,7 @@ I am a Full-Stack Software Developer who enjoys backpacking  🌲🎒⛰️, bui
 
 Here's what I have been working on:
 
-[SpookBnb 👻](https://airbnb-clone-ff80.onrender.com)  |  [TaskPanda 🐼](https://taskpanda-0di2.onrender.com)  |  [FoodFetch 🍔](https://food-fetch.onrender.com)
+[Spookybnb 👻](https://spookybnb.onrender.com)  |  [TaskPanda 🐼](https://taskpanda-0di2.onrender.com)  |  [FoodFetch 🍔](https://food-fetch.onrender.com)
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
