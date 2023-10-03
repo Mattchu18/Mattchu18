@@ -9,6 +9,8 @@ Here's what I have been working on:
 
 [Spookybnb 👻](https://spookybnb.onrender.com)  |  [TaskPanda 🐼](https://taskpanda-0di2.onrender.com)  |  [FoodFetch 🍔](https://food-fetch.onrender.com)
 
+I am currently working on FoodFetch 🍔 at the moment adding a new search 🔍 feature and a favorites feature!
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
